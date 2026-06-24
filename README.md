@@ -37,12 +37,12 @@ The objective is to identify customers likely to leave the service and help busi
 ---
 
 Project Structure
-├── CBSOT.ipynb
-├── churn_model.pkl
-├── confusion_matrix.png
-├── feature_importance.png
-├── segmentation.png
-└── README.md
+-> CBSOT.ipynb
+-> churn_model.pkl
+-> confusion_matrix.png
+-> feature_importance.png
+-> segmentation.png
+-> README.md
 
 and
 
@@ -75,3 +75,5 @@ Results
 * Streamlit Deployment
 * Real-Time Prediction
 * Interactive Dashboard
+
+Dataset and generated customer segment files are not uploaded due to GitHub file size limitations.
