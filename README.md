@@ -61,7 +61,16 @@ Results
 * High Risk Customer Identification
 
 ---
+## Dataset
 
+The project uses the IBM Telco Customer Churn Dataset.
+
+The original dataset is included in the repository:
+
+📂 data/Telco_customer_churn.xlsx
+
+It contains 7,043 customer records and 33 business attributes including customer demographics, subscription details, billing information, and churn status.
+---
 ## Files
 
 * CBSOT.ipynb
