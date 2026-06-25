@@ -75,7 +75,7 @@ It contains 7,043 customer records and 33 business attributes including customer
 
 * CBSOT.ipynb
 * churn_model.pkl
-* telco_churn.csv
+* Telco_customer_churn.xlsx
 
 ---
 
