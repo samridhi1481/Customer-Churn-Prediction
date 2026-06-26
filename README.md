@@ -36,7 +36,7 @@ The objective is to identify customers likely to leave the service and help busi
 
 ---
 
-Project Structure
+## Project Structure
 -> CBSOT.ipynb
 -> churn_model.pkl
 -> confusion_matrix.png
@@ -44,12 +44,11 @@ Project Structure
 -> segmentation.png
 -> README.md
 
-and
+---
 
-Results
-- Validation Accuracy: ~98%
-- Cross Validation Accuracy: ~98%
-- ROC-AUC Score: 1.0
+## Results
+- Achieved ~78% Cross Validation Accuracy using a Random Forest classifier.
+- ROC-AUC Score: 0.84
 - 4 Customer Segments Generated using K-Means
 ---
 
